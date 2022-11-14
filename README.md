@@ -1,6 +1,5 @@
 # My Resume
-
-[Ashutosh_Sharma.pdf](https://github.com/mr-ashu/Resume/files/10006186/Ashutosh_Sharma.pdf)
+ 
 
  
 
